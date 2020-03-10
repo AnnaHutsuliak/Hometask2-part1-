@@ -1,0 +1,9 @@
+package com.epam.hometask2;
+        public class Hometask2 {
+ public static void main(String[] arg) {
+        int numberFirst = 791;
+        int numberSecond = 197;
+        int result= numberFirst - numberSecond;
+        System.out.println("numberFirst"+ numberFirst+"\nnumberSecond"+ numberSecond+"\nsubtract = " + result);
+    }
+}
